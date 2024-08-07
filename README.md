@@ -1,4 +1,4 @@
-```markdown
+
 # Loan Prediction Analysis
 
 This project aims to predict loan approval outcomes using a Random Forest Classifier, based on various factors such as gender, marital status, education, applicant income, and credit history. The Python script includes comprehensive data cleaning, preprocessing, visualization, and machine learning model implementation.
@@ -28,6 +28,4 @@ Feel free to contribute by opening an issue or submitting a pull request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-```
 
-Replace `<repository-url>` with your GitHub repository's URL. This README provides an overview, installation guide, usage instructions, and contribution guidelines for your loan prediction analysis project.
